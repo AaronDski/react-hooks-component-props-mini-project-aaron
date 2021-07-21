@@ -7,6 +7,7 @@ function ArticleList( {posts} ) {
             title = {element.title}
             date = {element.date}
             preview = {element.preview}
+            minutes= {element.minutes}
             key = {element.id}
             />
         )
